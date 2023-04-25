@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on tons of assignments of my courses.
 - 🌱 I’m currently learning how to be a better software engineer.
 - 💬 Ask me about anthing.
-- 😄 Pronouns: He/His/Him
+- 😄 Pronouns: He/His/Him.
 -->
